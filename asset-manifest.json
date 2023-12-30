@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18e30ab9.css",
+    "main.js": "/static/js/main.c538aad0.js",
+    "static/media/cathedral_p2M.webp": "/static/media/cathedral_p2M.0538ad70b7879238f1dd.webp",
+    "static/media/mooreandsons_p1.webp": "/static/media/mooreandsons_p1.7d34c222ab736b58d266.webp",
+    "static/media/cathedral_p1.webp": "/static/media/cathedral_p1.324c8b11be73e093fd17.webp",
+    "static/media/mooreandsons_p2M.webp": "/static/media/mooreandsons_p2M.3c7e73e9d4310852d7d4.webp",
+    "static/media/titan_p1M.webp": "/static/media/titan_p1M.30c8bb59187e02c530a6.webp",
+    "static/media/titan_p1.webp": "/static/media/titan_p1.7f6bacffd1f9c04702a6.webp",
+    "static/media/computer-on-desk.webp": "/static/media/computer-on-desk.7e32e41e24f001e21884.webp",
+    "static/media/solar_p1.webp": "/static/media/solar_p1.59891686445687e8e808.webp",
+    "static/media/hero-img.jpg": "/static/media/hero-img.d6962842b933a76fc31d.jpg",
+    "static/media/service-img3.jpg": "/static/media/service-img3.b7837406979eacc994e2.jpg",
+    "static/media/service-img1.jpg": "/static/media/service-img1.9973125499b83a25a4ca.jpg",
+    "static/media/service-img2.jpg": "/static/media/service-img2.a2639baeda06c6ab2d08.jpg",
+    "static/media/solar_p2M.webp": "/static/media/solar_p2M.b4c05c2a5d5cac117ea6.webp",
+    "index.html": "/index.html",
+    "static/media/envelope.svg": "/static/media/envelope.f0a4bbf6a8131a945fcb.svg",
+    "main.18e30ab9.css.map": "/static/css/main.18e30ab9.css.map",
+    "main.c538aad0.js.map": "/static/js/main.c538aad0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e30ab9.css",
+    "static/js/main.c538aad0.js"
+  ]
+}
