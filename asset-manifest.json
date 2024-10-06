@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.087dd395.css",
-    "main.js": "/static/js/main.e52d19f6.js",
+    "main.css": "/static/css/main.cac99301.css",
+    "main.js": "/static/js/main.c8a08a5c.js",
     "static/media/cathedral_p2M.webp": "/static/media/cathedral_p2M.0538ad70b7879238f1dd.webp",
     "static/media/mooreandsons_p1.webp": "/static/media/mooreandsons_p1.7d34c222ab736b58d266.webp",
     "static/media/cathedral_p1.webp": "/static/media/cathedral_p1.324c8b11be73e093fd17.webp",
@@ -17,11 +17,11 @@
     "static/media/solar_p2M.webp": "/static/media/solar_p2M.b4c05c2a5d5cac117ea6.webp",
     "index.html": "/index.html",
     "static/media/envelope.svg": "/static/media/envelope.f0a4bbf6a8131a945fcb.svg",
-    "main.087dd395.css.map": "/static/css/main.087dd395.css.map",
-    "main.e52d19f6.js.map": "/static/js/main.e52d19f6.js.map"
+    "main.cac99301.css.map": "/static/css/main.cac99301.css.map",
+    "main.c8a08a5c.js.map": "/static/js/main.c8a08a5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.087dd395.css",
-    "static/js/main.e52d19f6.js"
+    "static/css/main.cac99301.css",
+    "static/js/main.c8a08a5c.js"
   ]
 }
